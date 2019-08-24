@@ -1,3 +1,5 @@
+# [https://github.com/all-in-one-of/openMaelstrom/tree/master/Configurations](https://github.com/all-in-one-of/openMaelstrom/tree/master/Configurations)
+
 For now this readme only covers how to build the program.
 
 # How to build
